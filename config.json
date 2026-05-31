@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpalculate",
+        "uuid": 24620677,
+        "checksum": "tpksaa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
